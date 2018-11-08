@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900');
+body{
+    background:#181818;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.qshow h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #fff;
+    margin-top: 150px;
+}
+.qshow h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #fbff65;
+}
+.qshow p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #a8b6b6;
+}
+.qshow span{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #fbff65;
+}
+.send-form{
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.suscribe{
+    background: #202020;
+    border: 1px solid #fbff65;
+    padding: 5px 40px;
+    line-height: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+.suscribe .far,
+.suscribe .fas{
+    color: #fbff65;
+    font-size: 35px;
+}
+.error{
+    color: #fbff65;
+}
+.suscribe input,
+.suscribe .contacto-boton{
+    background: transparent;
+    border: none;
+    color: #a8b6b6;
+    height: 60px;
+    line-height: 60px;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+.hide-box {
+    display: none !important;
+}
